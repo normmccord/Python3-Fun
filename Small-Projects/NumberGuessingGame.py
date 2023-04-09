@@ -10,7 +10,7 @@
 import random # loads the 'random' module
 
 randomNumber = random.randint(1, 100) # the range is in the parenthesis (start, stop+1)
-print(randomNumber) # for debugging/testing
+# print(randomNumber) # for debugging/testing
 
 # w3schools shows that the 2nd number in the range is 'stop+1' but in my testing I have found that the 2nd number is, in fact, included.  This makes me think it's actually (start, stop).  Maybe one of us is wrong, or maybe I misinterpreted what they meant.
 userGuess = None # establish a variable for the user's guess
