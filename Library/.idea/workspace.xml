@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93d14cbe-d509-4d8e-b243-6cebad3ac4ac" name="Changes" comment="" />
+    <list default="true" id="3ea79b9a-50c4-45b6-9e22-238cad1a7f2d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +23,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2OC74m3SMdNWmAN9upVxfXNUgVR" />
+  <component name="ProjectId" id="2OFSGD86nrOzOiAxmXpRBtjJxQ9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,18 +31,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/norma/OneDrive/Desktop/School/IT 1114L/Exceptions-Practice"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="93d14cbe-d509-4d8e-b243-6cebad3ac4ac" name="Changes" comment="" />
-      <created>1681052520376</created>
+      <changelist id="3ea79b9a-50c4-45b6-9e22-238cad1a7f2d" name="Changes" comment="" />
+      <created>1681154738074</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1681052520376</updated>
+      <updated>1681154738074</updated>
     </task>
     <servers />
   </component>
