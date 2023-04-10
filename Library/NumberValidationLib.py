@@ -3,6 +3,7 @@
 # Date Last Modified: 20230410
 # Purpose: An input validation library for numbers
 
+# checks if input is a float
 def isFloat(s):
     decimal_count = 0
     for i in s:
@@ -15,6 +16,7 @@ def isFloat(s):
     else:
         return False
 
+# gets input and tests if float using isFloat
 def getFloat():
     s = input("Enter a float: ")
     while not isFloat(s):
@@ -22,6 +24,7 @@ def getFloat():
         s = input("enter a float: ")
     return float(s)
 
+# gets input and check if integer using isdigit
 def getInt():
     s = input("Enter an int: ")
     while not s.isdigit():
