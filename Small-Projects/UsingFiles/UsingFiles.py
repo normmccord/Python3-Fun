@@ -1,6 +1,6 @@
 # Author: Norm McCord
 # Date Created: 20230410
-# Date Last Modified: 20230410
+# Date Last Modified: 20230412
 # Purpose: exercises in using files within a program
 
 # opening a file
